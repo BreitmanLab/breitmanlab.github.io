@@ -1,6 +1,6 @@
-# mthompson-lab.github.io
+# breitmanlab.github.io
 
-Welcome to the source code for the website of the Thompson Lab, located at UC Merced. 
+Welcome to the source code for the website of the Breitman Lab, located at Auburn University at Montgomery (AUM). 
 
 Technologies this website uses:  
 
@@ -30,6 +30,6 @@ Technologies this website uses:
 
 ## Credits
 
-The basic framework for this website was borrowed from the website of the Keedy Lab at the the CUNY ASRC (https://keedylab.org), which is based on the website of Fraser Lab at UCSF (www.fraserlab.com).
+The basic framework for this website was borrowed from the websites of the Thompson Lab at UC, Merced (https://thompsonlab.science), which is based on the websites of the Keedy Lab at the the CUNY ASRC (https://keedylab.org) and the Fraser Lab at UCSF (www.fraserlab.com).
 
 This website uses CSS styles from https://templated.co.
