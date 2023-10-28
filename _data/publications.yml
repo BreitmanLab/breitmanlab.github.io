@@ -21,9 +21,9 @@
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: '/pdf/Bagley_et_al_2023_Zootaxa_author_revision_copy.pdf'
+  pdf: /pdf/Bagley_et_al_2023_Zootaxa_author_revision_copy.pdf
   pdbs:
-  links: https://data.mendeley.com/datasets/5y43cn9x4g/3
+  links: <a href='https://www.mapress.com/zt/'>Zootaxa</a>,<a href='https://data.mendeley.com/datasets/5y43cn9x4g/3'>Data</a>
     - name: Alabama Department of Environmental Management
       url: https://adem.alabama.gov
     - name: Breitman Lab
