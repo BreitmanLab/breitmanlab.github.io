@@ -4,29 +4,31 @@ Welcome to the source code for the website of the Breitman Lab, located at Aubur
 
 Technologies this website uses:  
 
-    Jekyll
-    GitHub Pages
-    jQuery
+```
+Jekyll
+GitHub Pages
+jQuery
+```
 
 ## Steps to install a local copy of this website (e.g. for testing):
 
 * Clone a copy of this repo.
 
-* cd into the repo.
+* `cd` into the repo.
 
 * Install Jekyll:
 
-    gem install bundler jekyll
+    `gem install bundler jekyll`
 
 * Start an instance of the website (change or increment the port number if needed):
 
-    jekyll serve --port 4000 --watch --baseurl=""
+    `jekyll serve --port 4000 --watch --baseurl=""`
 
 * Go to this address in a browser (change or increment the port number if needed):
 
-    localhost:4000
+    `localhost:4000`
 
-* When you are finished, you should kill the process with ctrl + c.
+* When you are finished, you should kill the process with `ctrl + c`.
 
 ## Credits
 
