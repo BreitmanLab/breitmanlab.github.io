@@ -53,7 +53,7 @@
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: '/pdf/Bagley_et_al_2022_AIeP.pdf'
+  pdf: /pdf/Bagley_et_al_2022_AIeP.pdf
   pdbs:
   links:
     - name: Breitman Lab
@@ -68,7 +68,7 @@
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: '/pdf/Fenker_et_al_2020_JB.pdf'
+  pdf: /pdf/Fenker_et_al_2020_JB.pdf
   pdbs:
   links:
     - name: Breitman Lab
@@ -85,7 +85,7 @@
   pmid: 31304599
   pmcid:
   biorxiv: 
-  pdf: '/pdf/Bagley_et_al_2019_JFB.pdf'
+  pdf: /pdf/Bagley_et_al_2019_JFB.pdf
   pdbs:
   links:
     - name: Breitman Lab
@@ -100,7 +100,7 @@
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: '/pdf/Breitman_et_al_2018_H.pdf'
+  pdf: /pdf/Breitman_et_al_2018_H.pdf
   pdbs:
   links:
     - name: Breitman Lab
@@ -115,7 +115,7 @@
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: '/pdf/Breitman_et_al_2015_CH.pdf'
+  pdf: /pdf/Breitman_et_al_2015_CH.pdf
   pdbs:
   links:
     - name: Breitman Lab
