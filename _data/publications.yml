@@ -21,7 +21,7 @@
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: /pdf/Bagley_et_al_2023_Zootaxa_author_revision_copy.pdf
+  pdf: https://breitmanlab.github.io/pdf/Bagley_et_al_2023_Zootaxa_author_revision_copy.pdf
   pdbs:
   links: <a href='https://www.mapress.com/zt/'>Zootaxa</a>,<a href='https://data.mendeley.com/datasets/5y43cn9x4g/3'>Data</a>
     - name: Alabama Department of Environmental Management
@@ -53,7 +53,7 @@
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: /pdf/Bagley_et_al_2022_AIeP.pdf
+  pdf: https://breitmanlab.github.io/pdf/Bagley_et_al_2022_AIeP.pdf
   pdbs:
   links:
     - name: Breitman Lab
@@ -68,7 +68,7 @@
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: /pdf/Fenker_et_al_2020_JB.pdf
+  pdf: https://breitmanlab.github.io/pdf/Fenker_et_al_2020_JB.pdf
   pdbs:
   links:
     - name: Breitman Lab
@@ -85,7 +85,7 @@
   pmid: 31304599
   pmcid:
   biorxiv: 
-  pdf: /pdf/Bagley_et_al_2019_JFB.pdf
+  pdf: https://breitmanlab.github.io/pdf/Bagley_et_al_2019_JFB.pdf
   pdbs:
   links:
     - name: Breitman Lab
@@ -100,7 +100,7 @@
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: /pdf/Breitman_et_al_2018_H.pdf
+  pdf: https://breitmanlab.github.io/pdf/Breitman_et_al_2018_H.pdf
   pdbs:
   links:
     - name: Breitman Lab
@@ -115,7 +115,7 @@
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: /pdf/Breitman_et_al_2015_CH.pdf
+  pdf: https://breitmanlab.github.io/pdf/Breitman_et_al_2015_CH.pdf
   pdbs:
   links:
     - name: Breitman Lab
