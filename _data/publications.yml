@@ -3,10 +3,10 @@
 #
 # - citation: "Petek N, Kraemer J, Derman A, **Fraser JS**, DiMaio F, Baker D,  Pogliano J, Agard D, Mullins RD.Structure and function of actin-like protein Alp7A reveal conserved and unique features of actin-based plasmid segregation. *Submitted*, 2015."
 #   date: 201507
-#   image: 'static/img/pub/petek_2015.jpg'
+#   image: '/static/img/pub/petek_2015.jpg'
 #   pmid: TBD
 #   pmcid: In Process
-#   pdf: 'static/pdf/petek_2015.pdf'
+#   pdf: '/static/pdf/petek_2015.pdf'
 #   pdbs:
 #     - 5XXX
 #   links:
@@ -17,7 +17,7 @@
 - title: "**Marine and freshwater fishes of Alabama: a revised checklist and discussion of taxonomic issues**"
   citation: "**Bagley JC**, Johnson CC, McGregor SW, **Breitman MF**, Armbruster JW, Harris PM, O'Neil PE. (2023) *Zootaxa*."
   date: '202310'
-  image: 'images/pub/Bagley_et_al_2023_article_50629_cover_en_US.jpg'
+  image: '/images/pub/Bagley_et_al_2023_article_50629_cover_en_US.jpg'
   pmid: 
   pmcid:
   biorxiv: 
@@ -49,11 +49,11 @@
 - title: "**Length–weight relation for seven Neotropical freshwater fish species (Actinopterygii) endemic to Central America**"
   citation: "**Bagley JC**, **Breitman MF**, Johnson, JB. (2022) *Acta Ichthyologica et Piscatoria*."
   date: '202208'
-  image: 'images/pub/Bagley_et_al_2022_big_722723.jpg'
+  image: '/images/pub/Bagley_et_al_2022_big_722723.jpg'
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: 'pdf/Bagley_et_al_2022_AIeP.pdf'
+  pdf: '/pdf/Bagley_et_al_2022_AIeP.pdf'
   pdbs:
   links:
     - name: Breitman Lab
@@ -64,11 +64,11 @@
 - title: "**Evolutionary history of Neotropical savannas geographically concentrates species, phylogenetic and functional diversity of lizards**"
   citation: "Fenker J, Domingos FMCB, Tedeschi LG, Rosauer DF, Werneck FP, Colli GR, Ledo R, Fonseca EM, Garda AA, Tucker DD, Sites Jr. JW, **Breitman MF**, Soares F, Giugliano LG, Moritz C. (2020) *Journal of Biogeography*."
   date: '202001'
-  image: 'images/pub/Fenker_et_al_big.png'
+  image: '/images/pub/Fenker_et_al_2020_JB.png'
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: 'pdf/Fenker_et_al_2020_JB.pdf'
+  pdf: '/pdf/Fenker_et_al_2020_JB.pdf'
   pdbs:
   links:
     - name: Breitman Lab
@@ -81,11 +81,11 @@
 - title: "**DNA barcode and minibarcode identification of freshwater fishes from Cerrado headwater streams in central Brazil**"
   citation: "**Bagley JC**, Aquino PPU, **Breitman MF**, Langeani F, Colli GR. (2019) *Journal of Fish Biology*."
   date: '201907'
-  image: 'images/pub/Bagley_et_al_2019_JFB.png'
+  image: '/images/pub/Bagley_et_al_2019_JFB.png'
   pmid: 31304599
   pmcid:
   biorxiv: 
-  pdf: 'pdf/Bagley_et_al_2019_JFB.pdf'
+  pdf: '/pdf/Bagley_et_al_2019_JFB.pdf'
   pdbs:
   links:
     - name: Breitman Lab
@@ -96,11 +96,11 @@
 - title: "**A new species of _Enyalius_ (Squamata, Leiosauridae) endemic to the Brazilian Cerrado**"
   citation: "**Breitman MF**, Domingos FMCB, **Bagley JC**, Wiederhecker HC, Ferrari TB, Cavalcante VHGL, et al. (2018) *Herpetologica*."
   date: '201812'
-  image: 'images/pub/Breitman_et_al_2018_H.png'
+  image: '/images/pub/Breitman_et_al_2018_H.png'
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: 'pdf/Breitman_et_al_2018_H.pdf'
+  pdf: '/pdf/Breitman_et_al_2018_H.pdf'
   pdbs:
   links:
     - name: Breitman Lab
@@ -111,11 +111,11 @@
 - title: "**Phylogeography and morphological variation of the northernmost distributed species of the _Liolaemus lineomaculatus_ section**"
   citation: "**Breitman MF**, Neyro Martínez R, Avila LJ, Sites Jr. JW, Morando M. (2015) *Amphibia-Reptilia*."
   date: '201511'
-  image: 'images/pub/Breitman_et_al_2015_CH.png'
+  image: '/images/pub/Breitman_et_al_2015_CH.png'
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: 'pdf/Breitman_et_al_2015_CH.pdf'
+  pdf: '/pdf/Breitman_et_al_2015_CH.pdf'
   pdbs:
   links:
     - name: Breitman Lab
