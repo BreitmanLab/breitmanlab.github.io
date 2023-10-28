@@ -47,7 +47,7 @@
       url: 
 
 - title: "**Length–weight relation for seven Neotropical freshwater fish species (Actinopterygii) endemic to Central America**"
-  citation: "Bagley JC, **Breitman MF**, Johnson, JB. (2022) *Acta Ichthyologica et Piscatoria*."
+  citation: "**Bagley JC**, **Breitman MF**, Johnson, JB. (2022) *Acta Ichthyologica et Piscatoria*."
   date: '202208'
   image: 'images/pub/Bagley_et_al_2022_big_722723.jpg'
   pmid: 
@@ -78,4 +78,50 @@
     - name: Garda Lab
       url: 
 
+- title: "**DNA barcode and minibarcode identification of freshwater fishes from Cerrado headwater streams in central Brazil**"
+  citation: "**Bagley JC**, Aquino PPU, **Breitman MF**, Langeani F, Colli GR. (2019) *Journal of Fish Biology*."
+  date: '201907'
+  image: 'images/pub/Bagley_et_al_2019_JFB.png'
+  pmid: 31304599
+  pmcid:
+  biorxiv: 
+  pdf: 'pdf/Bagley_et_al_2019_JFB.pdf'
+  pdbs:
+  links:
+    - name: Breitman Lab
+      url: https://breitmanlab.github.io
+    - name: Guarino Colli Lab
+      url: 
+
+- title: "**A new species of _Enyalius_ (Squamata, Leiosauridae) endemic to the Brazilian Cerrado**"
+  citation: "**Breitman MF**, Domingos FMCB, **Bagley JC**, Wiederhecker HC, Ferrari TB, Cavalcante VHGL, et al. (2018) *Herpetologica*."
+  date: '201812'
+  image: 'images/pub/Breitman_et_al_2018_H.png'
+  pmid: 
+  pmcid:
+  biorxiv: 
+  pdf: 'pdf/Breitman_et_al_2018_H.pdf'
+  pdbs:
+  links:
+    - name: Breitman Lab
+      url: https://breitmanlab.github.io
+    - name: Guarino Colli Lab
+      url: 
+
+- title: "**Phylogeography and morphological variation of the northernmost distributed species of the _Liolaemus lineomaculatus_ section**"
+  citation: "**Breitman MF**, Neyro Martínez R, Avila LJ, Sites Jr. JW, Morando M. (2015) *Amphibia-Reptilia*."
+  date: '201511'
+  image: 'images/pub/Breitman_et_al_2015_CH.png'
+  pmid: 
+  pmcid:
+  biorxiv: 
+  pdf: 'pdf/Breitman_et_al_2015_CH.pdf'
+  pdbs:
+  links:
+    - name: Breitman Lab
+      url: https://breitmanlab.github.io
+    - name: Morando Lab
+      url: 
+    - name: Avila Lab
+      url: 
 
