@@ -21,9 +21,9 @@
   pmid: 
   pmcid:
   biorxiv: 
-  pdf: 
+  pdf: '/pdf/Bagley_et_al_2023_Zootaxa_author_revision_copy.pdf'
   pdbs:
-  links:
+  links: https://data.mendeley.com/datasets/5y43cn9x4g/3
     - name: Alabama Department of Environmental Management
       url: https://adem.alabama.gov
     - name: Breitman Lab
@@ -42,9 +42,9 @@
     - name: Breitman Lab
       url: https://breitmanlab.github.io
     - name: Morando Lab
-      url: 
+      url: https://www.researchgate.net/profile/Mariana-Morando
     - name: Avila Lab
-      url: 
+      url: https://www.researchgate.net/profile/Lj-Avila
 
 - title: "**Length–weight relation for seven Neotropical freshwater fish species (Actinopterygii) endemic to Central America**"
   citation: "**Bagley JC**, **Breitman MF**, Johnson, JB. (2022) *Acta Ichthyologica et Piscatoria*."
@@ -74,9 +74,9 @@
     - name: Breitman Lab
       url: https://breitmanlab.github.io
     - name: Guarino Colli Lab
-      url: 
+      url: https://www.researchgate.net/profile/Guarino-Colli
     - name: Garda Lab
-      url: 
+      url: https://www.researchgate.net/profile/Adrian-Garda
 
 - title: "**DNA barcode and minibarcode identification of freshwater fishes from Cerrado headwater streams in central Brazil**"
   citation: "**Bagley JC**, Aquino PPU, **Breitman MF**, Langeani F, Colli GR. (2019) *Journal of Fish Biology*."
@@ -91,7 +91,7 @@
     - name: Breitman Lab
       url: https://breitmanlab.github.io
     - name: Guarino Colli Lab
-      url: 
+      url: https://www.researchgate.net/profile/Guarino-Colli
 
 - title: "**A new species of _Enyalius_ (Squamata, Leiosauridae) endemic to the Brazilian Cerrado**"
   citation: "**Breitman MF**, Domingos FMCB, **Bagley JC**, Wiederhecker HC, Ferrari TB, Cavalcante VHGL, et al. (2018) *Herpetologica*."
@@ -106,7 +106,7 @@
     - name: Breitman Lab
       url: https://breitmanlab.github.io
     - name: Guarino Colli Lab
-      url: 
+      url: https://www.researchgate.net/profile/Guarino-Colli
 
 - title: "**Phylogeography and morphological variation of the northernmost distributed species of the _Liolaemus lineomaculatus_ section**"
   citation: "**Breitman MF**, Neyro Martínez R, Avila LJ, Sites Jr. JW, Morando M. (2015) *Amphibia-Reptilia*."
@@ -121,7 +121,7 @@
     - name: Breitman Lab
       url: https://breitmanlab.github.io
     - name: Morando Lab
-      url: 
+      url: https://www.researchgate.net/profile/Mariana-Morando
     - name: Avila Lab
-      url: 
+      url: https://www.researchgate.net/profile/Lj-Avila
 
