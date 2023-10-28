@@ -1,3 +1,8 @@
+name: "Breitman Lab"
+description: "This is the official web page for the Flor Breitman Lab at AUM."
+
+url: "https://breitmanlab.com"
+
 baseurl: /
 exclude: ['README.md']
 markdown: kramdown
