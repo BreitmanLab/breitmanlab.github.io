@@ -39,11 +39,11 @@
   pdf: 
   pdbs:
   links:
-    - name: Breitman Lab
+    - name: Breitman Lab @ AUM
       url: https://breitmanlab.github.io
-    - name: Morando Lab
+    - name: Morando Lab @ CONICET
       url: https://www.researchgate.net/profile/Mariana-Morando
-    - name: Avila Lab
+    - name: Avila Lab @ CONICET
       url: https://www.researchgate.net/profile/Lj-Avila
 
 - title: "**Length–weight relation for seven Neotropical freshwater fish species (Actinopterygii) endemic to Central America**"
@@ -56,9 +56,9 @@
   pdf: '/pdf/Bagley_et_al_2022_AIeP.pdf'
   pdbs:
   links:
-    - name: Breitman Lab
+    - name: Breitman Lab @ AUM
       url: https://breitmanlab.github.io
-    - name: Johnson Lab
+    - name: Johnson Lab @ BYU
       url: https://biology.byu.edu/johnson-lab
 
 - title: "**Evolutionary history of Neotropical savannas geographically concentrates species, phylogenetic and functional diversity of lizards**"
@@ -71,11 +71,11 @@
   pdf: '/pdf/Fenker_et_al_2020_JB.pdf'
   pdbs:
   links:
-    - name: Breitman Lab
+    - name: Breitman Lab @ CONICET
       url: https://breitmanlab.github.io
-    - name: Guarino Colli Lab
+    - name: Guarino Colli Lab @ UnB
       url: https://www.researchgate.net/profile/Guarino-Colli
-    - name: Garda Lab
+    - name: Garda Lab @ UFRN
       url: https://www.researchgate.net/profile/Adrian-Garda
 
 - title: "**DNA barcode and minibarcode identification of freshwater fishes from Cerrado headwater streams in central Brazil**"
@@ -88,9 +88,9 @@
   pdf: '/pdf/Bagley_et_al_2019_JFB.pdf'
   pdbs:
   links:
-    - name: Breitman Lab
+    - name: Breitman Lab @ AUM
       url: https://breitmanlab.github.io
-    - name: Guarino Colli Lab
+    - name: Guarino Colli Lab @ UnB
       url: https://www.researchgate.net/profile/Guarino-Colli
 
 - title: "**A new species of _Enyalius_ (Squamata, Leiosauridae) endemic to the Brazilian Cerrado**"
@@ -103,9 +103,9 @@
   pdf: '/pdf/Breitman_et_al_2018_H.pdf'
   pdbs:
   links:
-    - name: Breitman Lab
+    - name: Breitman Lab @ AUM
       url: https://breitmanlab.github.io
-    - name: Guarino Colli Lab
+    - name: Guarino Colli Lab @ UnB
       url: https://www.researchgate.net/profile/Guarino-Colli
 
 - title: "**Phylogeography and morphological variation of the northernmost distributed species of the _Liolaemus lineomaculatus_ section**"
@@ -118,9 +118,9 @@
   pdf: '/pdf/Breitman_et_al_2015_CH.pdf'
   pdbs:
   links:
-    - name: Breitman Lab
+    - name: Breitman Lab @ AUM
       url: https://breitmanlab.github.io
-    - name: Morando Lab
+    - name: Morando Lab @ CONICET
       url: https://www.researchgate.net/profile/Mariana-Morando
     - name: Avila Lab
       url: https://www.researchgate.net/profile/Lj-Avila
