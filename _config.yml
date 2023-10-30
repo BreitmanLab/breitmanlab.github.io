@@ -1,7 +1,15 @@
 description: "This is the official web page for the Flor Breitman Lab @ AUM."
 
 url: "http://breitmanlab.com"
-
 baseurl: /
-exclude: ['README.md']
+
+# paginate: 5
+# plugins: [jekyll-paginate]
+# paginate_path: "news/page:num"
+
+permalink: pretty
 markdown: kramdown
+# kramdown:
+#   parse_block_html: true
+
+exclude: ['README.md']
