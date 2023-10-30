@@ -1,8 +1,12 @@
+## Some slide options I haven't used yet:
 #- image: 'aum_pic3_cr.jpg'
 #- image: 'montgomery_at_night.jpg'
 
+## Slide(s) used previously:
+#- image: 'images/slides/aumentr_1266x169px_72.png'
+
+## Current slides:
 - image: 'images/slides/southeastern_US_dem.png'
 - image: 'images/slides/dna_webp_1656x740.8px_72.png'
 - image: 'images/slides/green_anole.jpg'
 - image: 'images/slides/hofstra_urban_ecology_img_72.png'
-#- image: 'images/slides/aumentr_1266x169px_72.png'
