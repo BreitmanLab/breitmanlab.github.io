@@ -23,7 +23,11 @@
   biorxiv: 
   pdf: 
   pdbs:
-  links: <a href='https://www.mapress.com/zt/'>Zootaxa</a>,<a href='https://data.mendeley.com/datasets/5y43cn9x4g/3'>Data</a>
+  links: 
+    - name: Journal
+      url: https://www.mapress.com/zt/
+    - name: Dataset
+      url: https://data.mendeley.com/datasets/5y43cn9x4g/3
     - name: Alabama Department of Environmental Management
       url: https://adem.alabama.gov
     - name: Breitman Lab
